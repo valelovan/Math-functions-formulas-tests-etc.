@@ -1,2 +1,2 @@
 # Useful and unusual math in Python
-Find numbers in nth row of Pascals Triangle using formula for combinatorial.
+Creating a package of unusual or useful math functions
